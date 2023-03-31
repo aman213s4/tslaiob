@@ -1,8 +1,8 @@
 
 {
-    "name": "Allinonebot",
-    "description": "ALLINONEBOT",
-    "repository": "https://github.com/",
+    "name": "AIO_Bot",
+    "description": "AIOB",
+    "repository": "https://github.com/aman213s4/tslaiob",
     "keywords": [
         "telegram bot",
         "pyrogram"
